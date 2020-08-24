@@ -1,5 +1,6 @@
-
 #include <Rcpp.h>
+#include "rb_tree.hpp"
+
 using namespace Rcpp;
 
 // [[Rcpp::export]]

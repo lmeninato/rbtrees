@@ -5,7 +5,7 @@ Version: 0.0.1
 Date: 2020-08-24
 Author: Lorenzo Meninato
 Maintainer: Lorenzo Meninato <lorenzomeninato@gmail.com>
-Description: One paragraph description of what the package does as one or more full sentences.
+Description: Access 'C++' Red-Black Tree data structure through R. 
 License: MIT + file LICENSE
 Imports: Rcpp (>= 1.0.5)
 LinkingTo: Rcpp
