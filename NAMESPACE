@@ -1,0 +1,3 @@
+useDynLib(rbtrees, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
